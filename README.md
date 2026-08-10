@@ -8,18 +8,6 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caduobristo&theme=transparent&hide_border=true&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5&sideNums=E5E7EB&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=caduobristo&bg_color=111827&color=9CA3AF&line=4FD1C5&point=FFFFFF&area=true&area_color=0F766E&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
-<div align="center">
-  <br/>
   <h3>🚀 Main Stack</h3>
   
   <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B"/>
