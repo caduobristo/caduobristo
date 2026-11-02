@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=4FD1C5&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello+There;AI+Applications+|+Data+Engineering+|+Analytics;Python+|+SQL+|+RAG+|+Airflow;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=4FD1C5&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello+There;Data+Science+|+Data+Engineering+|+Software+Dev;Python+|+SQL+|+PyTorch+|+Airflow;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,17 +21,17 @@
   
   <h3>🧠 AI & Data</h3>
 
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM_Agents-111827?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/LLM_Agents-111827?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=00B3B3"/>
 
   <br/><br/>
   
   <h3>☁️ Tools & Environment</h3>
 
-  <img src="https://img.shields.io/badge/AWS-1E293B?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-1E293B?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
   <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032"/>
 
@@ -41,6 +41,10 @@
 
 <div align="center">
   <h3>🌍 Connect with Me</h3>
+
+  <a href="https://caduobristo.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4FD1C5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   
   <a href="https://www.linkedin.com/in/carlos-eduardo-obristo-64870b213/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
